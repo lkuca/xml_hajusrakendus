@@ -49,7 +49,6 @@
 			<xsl:for-each select="autod/auto[vaasta >= 2010]">
 				<tr>
 					<td>
-						<!-- Call the reverse template to reverse the registrinumber -->
 						<xsl:call-template name="reverse">
 							<xsl:with-param name="text" select="registrinumber"/>
 						</xsl:call-template>
@@ -159,9 +158,8 @@
 		<xsl:param name="text"/>
 		<xsl:choose>
 			<xsl:when test="string-length($text) > 0">
-				<!-- Output the last character of the string -->
+			
 				<xsl:value-of select="substring($text, string-length($text), 1)"/>
-				<!-- Recursively call reverse template with the rest of the string -->
 				<xsl:call-template name="reverse">
 					<xsl:with-param name="text" select="substring($text, 1, string-length($text) - 1)"/>
 				</xsl:call-template>
