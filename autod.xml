@@ -1,0 +1,302 @@
+<autod>
+  <auto mark="Toyota">
+    <registrinumber>059 ZTI</registrinumber>
+    <mark>Toyota</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Naomi</omanik>
+  </auto>
+  <auto mark="Infiniti">
+    <registrinumber>951 ZNW</registrinumber>
+    <mark>Infiniti</mark>
+    <vaasta>1998</vaasta>
+    <omanik>Lavena</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registrinumber>495 OAN</registrinumber>
+    <mark>Ford</mark>
+    <vaasta>2002</vaasta>
+    <omanik>Gisella</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>010 FPT</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Dex</omanik>
+  </auto>
+  <auto mark="Porsche">
+    <registrinumber>257 DAF</registrinumber>
+    <mark>Porsche</mark>
+    <vaasta>1988</vaasta>
+    <omanik>Latashia</omanik>
+  </auto>
+  <auto mark="Nissan">
+    <registrinumber>364 VUR</registrinumber>
+    <mark>Nissan</mark>
+    <vaasta>1994</vaasta>
+    <omanik>Dulcinea</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registrinumber>208 QTQ</registrinumber>
+    <mark>Buick</mark>
+    <vaasta>1989</vaasta>
+    <omanik>Sayers</omanik>
+  </auto>
+  <auto mark="Mercury">
+    <registrinumber>973 BNB</registrinumber>
+    <mark>Mercury</mark>
+    <vaasta>2004</vaasta>
+    <omanik>Yoshiko</omanik>
+  </auto>
+  <auto mark="Oldsmobile">
+    <registrinumber>825 NIT</registrinumber>
+    <mark>Oldsmobile</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Candida</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registrinumber>114 LXP</registrinumber>
+    <mark>Ford</mark>
+    <vaasta>1987</vaasta>
+    <omanik>Evvie</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registrinumber>123 LXF</registrinumber>
+    <mark>Buick</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Jodi</omanik>
+  </auto>
+  <auto mark="Suzuki">
+    <registrinumber>202 IST</registrinumber>
+    <mark>Suzuki</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Armstrong</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>384 AJC</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>1999</vaasta>
+    <omanik>Cesaro</omanik>
+  </auto>
+  <auto mark="Ford">
+    <registrinumber>689 QZD</registrinumber>
+    <mark>Ford</mark>
+    <vaasta>1979</vaasta>
+    <omanik>Jehanna</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>543 RHU</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Dorry</omanik>
+  </auto>
+  <auto mark="Lexus">
+    <registrinumber>519 XBN</registrinumber>
+    <mark>Lexus</mark>
+    <vaasta>2004</vaasta>
+    <omanik>Ronna</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>558 ZZN</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Cord</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>557 MXE</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Alverta</omanik>
+  </auto>
+  <auto mark="Mazda">
+    <registrinumber>413 KWP</registrinumber>
+    <mark>Mazda</mark>
+    <vaasta>2003</vaasta>
+    <omanik>Raymond</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registrinumber>673 DNO</registrinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Sven</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registrinumber>606 HXK</registrinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>2004</vaasta>
+    <omanik>Philip</omanik>
+  </auto>
+  <auto mark="Cadillac">
+    <registrinumber>461 WJC</registrinumber>
+    <mark>Cadillac</mark>
+    <vaasta>2009</vaasta>
+    <omanik>Patrice</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>424 RXA</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2009</vaasta>
+    <omanik>Cynthea</omanik>
+  </auto>
+  <auto mark="Plymouth">
+    <registrinumber>713 UAQ</registrinumber>
+    <mark>Plymouth</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Serge</omanik>
+  </auto>
+  <auto mark="Acura">
+    <registrinumber>295 KHX</registrinumber>
+    <mark>Acura</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Evangelin</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>875 AUI</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Ediva</omanik>
+  </auto>
+  <auto mark="Dodge">
+    <registrinumber>871 XIO</registrinumber>
+    <mark>Dodge</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Nerissa</omanik>
+  </auto>
+  <auto mark="Land Rover">
+    <registrinumber>902 FCZ</registrinumber>
+    <mark>Land Rover</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Arlina</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registrinumber>383 PGY</registrinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>1992</vaasta>
+    <omanik>Keely</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>690 OYR</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>2010</vaasta>
+    <omanik>Shelagh</omanik>
+  </auto>
+  <auto mark="Buick">
+    <registrinumber>004 ODS</registrinumber>
+    <mark>Buick</mark>
+    <vaasta>1987</vaasta>
+    <omanik>Inez</omanik>
+  </auto>
+  <auto mark="Plymouth">
+    <registrinumber>436 CNR</registrinumber>
+    <mark>Plymouth</mark>
+    <vaasta>2000</vaasta>
+    <omanik>Freddie</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>807 XOQ</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Hernando</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registrinumber>791 OVJ</registrinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>1995</vaasta>
+    <omanik>Ame</omanik>
+  </auto>
+  <auto mark="Volkswagen">
+    <registrinumber>190 SQI</registrinumber>
+    <mark>Volkswagen</mark>
+    <vaasta>2011</vaasta>
+    <omanik>Nerte</omanik>
+  </auto>
+  <auto mark="Hyundai">
+    <registrinumber>540 HYE</registrinumber>
+    <mark>Hyundai</mark>
+    <vaasta>2008</vaasta>
+    <omanik>Paolina</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>125 ZXN</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2006</vaasta>
+    <omanik>Fae</omanik>
+  </auto>
+  <auto mark="Audi">
+    <registrinumber>703 XUO</registrinumber>
+    <mark>Audi</mark>
+    <vaasta>2007</vaasta>
+    <omanik>Karl</omanik>
+  </auto>
+  <auto mark="Volvo">
+    <registrinumber>272 MHK</registrinumber>
+    <mark>Volvo</mark>
+    <vaasta>2001</vaasta>
+    <omanik>Gilberte</omanik>
+  </auto>
+  <auto mark="Volvo">
+    <registrinumber>234 HKM</registrinumber>
+    <mark>Volvo</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Esra</omanik>
+  </auto>
+  <auto mark="Audi">
+    <registrinumber>012 SOA</registrinumber>
+    <mark>Audi</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Aleta</omanik>
+  </auto>
+  <auto mark="Infiniti">
+    <registrinumber>233 EOF</registrinumber>
+    <mark>Infiniti</mark>
+    <vaasta>1997</vaasta>
+    <omanik>Giffy</omanik>
+  </auto>
+  <auto mark="Mercedes-Benz">
+    <registrinumber>216 CMR</registrinumber>
+    <mark>Mercedes-Benz</mark>
+    <vaasta>1996</vaasta>
+    <omanik>Angelina</omanik>
+  </auto>
+  <auto mark="Lexus">
+    <registrinumber>812 WMT</registrinumber>
+    <mark>Lexus</mark>
+    <vaasta>2003</vaasta>
+    <omanik>Enid</omanik>
+  </auto>
+  <auto mark="Merkur">
+    <registrinumber>540 FWJ</registrinumber>
+    <mark>Merkur</mark>
+    <vaasta>1985</vaasta>
+    <omanik>Pedro</omanik>
+  </auto>
+  <auto mark="Lamborghini">
+    <registrinumber>775 HMW</registrinumber>
+    <mark>Lamborghini</mark>
+    <vaasta>1990</vaasta>
+    <omanik>Wendall</omanik>
+  </auto>
+  <auto mark="Chevrolet">
+    <registrinumber>707 AWP</registrinumber>
+    <mark>Chevrolet</mark>
+    <vaasta>2012</vaasta>
+    <omanik>Terese</omanik>
+  </auto>
+  <auto mark="Saab">
+    <registrinumber>462 PKJ</registrinumber>
+    <mark>Saab</mark>
+    <vaasta>1990</vaasta>
+    <omanik>Jade</omanik>
+  </auto>
+  <auto mark="Land Rover">
+    <registrinumber>605 IUN</registrinumber>
+    <mark>Land Rover</mark>
+    <vaasta>2005</vaasta>
+    <omanik>Giulia</omanik>
+  </auto>
+  <auto mark="GMC">
+    <registrinumber>584 NVM</registrinumber>
+    <mark>GMC</mark>
+    <vaasta>1993</vaasta>
+    <omanik>Rivi</omanik>
+  </auto>
+</autod>
